@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Снорк Падальщик",
+        "className": "wgb_snork_boss",
+        "globalHealth": 750000,
+        "damageMultiplier": 1
+    },
+    {
+        "name":"Штурмовик",
+        "className": "AP_zmb_omon",
+        "globalHealth": 3250000,
+        "damageMultiplier": 1.2
+    },
+    {
+        "name":"Тесла",
+        "className": "AP_zmb_voltage_miltary",
+        "globalHealth": 17500000,
+        "damageMultiplier": 1
+    },
+     {
+        "name":"Тарк",
+        "className": "Mutant_AoD_Tark1_Male",
+        "globalHealth": 220000,
+        "damageMultiplier": 0.56
+    },
+     {
+        "name":"Большой Тарк",
+        "className": "Mutant_AoD_Tark1_Male",
+        "globalHealth": 2450000,
+        "damageMultiplier": 0.55
+    },
+     {
+        "name":"Лунный Тарк",
+        "className": "Mutant_AoD_Tark1_Male",
+        "globalHealth": 8700000,
+        "damageMultiplier": 0.35
+    },
+     {
+        "name":"Лесник",
+        "className": "Mutant_AoD_Forester1",
+        "globalHealth": 425000,
+        "damageMultiplier": 0.35
+    },
+     {
+        "name":"Большой Лесник",
+        "className": "Mutant_AoD_Foresterbig",
+        "globalHealth": 5450000,
+        "damageMultiplier": 0.56
+    },
+     {
+        "name":"Хозяин леса",
+        "className": "Mutant_AoD_ForesterBoss",
+        "globalHealth": 12700000,
+        "damageMultiplier": 0.35
+    },
+     {
+        "name":"Кровосос",
+        "className": "SMCS_BloodSucker_Normal",
+        "globalHealth": 105000,
+        "damageMultiplier": 1
+    },
+    {
+        "name":"Северный кровосос",
+        "className": "Mutant_AoD_Krovosos2",
+        "globalHealth": 105000,
+        "damageMultiplier": 0.1
+    },
+    {
+        "name":"Мутировавший Кровосос",
+        "className": "SMCS_BloodSucker_Black",
+        "globalHealth": 12500000,
+        "damageMultiplier": 0.5
+    },
+    {
+        "name":"Химера",
+        "className": "SMCS_Chimera",
+        "globalHealth": 445000,
+        "damageMultiplier": 0.75
+    },
+     {
+        "name":"Большая Химера",
+        "className": "Mutant_AoD_Himera3big",
+        "globalHealth": 2570000,
+        "damageMultiplier": 0.56
+    },
+    {
+        "name":"Химера мать",
+        "className": "Mutant_AoD_Himera_Boss",
+        "globalHealth": 9700000,
+        "damageMultiplier": 0.56
+    }
+]

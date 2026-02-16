@@ -182,7 +182,7 @@
     "minReloadTime": 0.0923
   },
   {
-    "name": "АК-101 12.7x108",
+    "name": "АК-101 12.7x108 Б-32",
     "className": "Kuvalda_AK101_127x108mod",
     "initSpeedMultiplier": 0.95,
     "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
