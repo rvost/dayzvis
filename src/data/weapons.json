@@ -1,0 +1,2471 @@
+[
+  {
+    "name": "Honey Badger .408",
+    "className": "Kuvalda_HoneyBadger408",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [30, 60, 100],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Honey Badger .408 аномальный",
+    "className": "Kuvalda_HoneyBadgeranom",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [30, 60, 100, 120],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Honey Badger Gauss",
+    "className": "Kuvalda_HoneyBadger_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Honey Badger 12.7x99",
+    "className": "Kuvalda_HoneyBadger_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Honey Badger 12.7x108",
+    "className": "Kuvalda_HoneyBadger_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Honey Badger 12.7x108 Модифицированный",
+    "className": "Kuvalda_HoneyBadger_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Bushmaster ACR 7.62x39",
+    "className": "Kuvalda_ACR_762",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP", "Ammo_762x39_AP"],
+    "magazines": [10, 30, 40, 75],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Bushmaster ACR 5.56x45",
+    "className": "Kuvalda_ACR_556",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Bushmaster ACR Gauss",
+    "className": "Kuvalda_ACR_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Bushmaster ACR 12.7x99",
+    "className": "Kuvalda_ACR_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Bushmaster ACR 12.7x108",
+    "className": "Kuvalda_ACR_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Bushmaster ACR 12.7x108 Модифицированный",
+    "className": "Kuvalda_ACR_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "АК-12 Gauss",
+    "className": "Kuvalda_AK12_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-12 12.7x99",
+    "className": "Kuvalda_AK12_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-12 12.7x108",
+    "className": "Kuvalda_AK12_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-12 12.7x108 Модифицированный",
+    "className": "Kuvalda_AK12_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Золотой АК-47",
+    "className": "Kuvalda_AK47_SJ",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "АК-101 5.56x45",
+    "className": "Kuvalda_AK101",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": [
+      "Ammo_556x45_M995",
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1"
+    ],
+    "magazines": [30],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-101 Gauss",
+    "className": "Kuvalda_AK101_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-101 12.7x99",
+    "className": "Kuvalda_AK101_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-101 12.7x108",
+    "className": "Kuvalda_AK101_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [30, 50, 60, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АК-101 12.7x108",
+    "className": "Kuvalda_AK101_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Автомат Калашникова АКМН 7.62x39",
+    "className": "Kuvalda_AKMN",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_762x39_AP", "Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP"],
+    "magazines": [30, 75],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "АКМН 9х39",
+    "className": "Kuvalda_AKMN939",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "АКМН 9х39 Аномальный",
+    "className": "Kuvalda_AKMNanom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "АКМН .408",
+    "className": "Kuvalda_AKMN408",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [30, 60, 100],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "АКС-74У 5.45x39",
+    "className": "Kuvalda_AKS74U",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": [
+      "Ammo_545x39_PPBS",
+      "Ammo_545x39",
+      "Ammo_545x39Tracer",
+      "Ammo_545x39_PS",
+      "Ammo_545x39_BP",
+      "Ammo_545x39_BS"
+    ],
+    "magazines": [30, 45, 60, 95],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АКС-74У 9x39",
+    "className": "Kuvalda_AKS74U939",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "АКС-74У Аномальный",
+    "className": "Kuvalda_AKS74U939anom",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Автомат АШ-12 12.7x55",
+    "className": "Kuvalda_ASH12",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kvld_Ammo_127x55B", "Kvld_Ammo_127x55A"],
+    "magazines": [10, 30, 60],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Автомат АШ-12 Gauss",
+    "className": "Kuvalda_ASH12_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Автомат АШ-12 12.7x99",
+    "className": "Kuvalda_ASH12_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Автомат АШ-12 12.7x108",
+    "className": "Kuvalda_ASH12_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Автомат АШ-12 12.7x108 Модифицированный",
+    "className": "Kuvalda_ASH12_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "втомат Специальный «Вал» 9x39",
+    "className": "Kuvalda_ASVAL",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39_BP", "Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6"],
+    "magazines": [10, 20, 30, 40, 80],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Автомат Специальный «Вал» 12.7x108",
+    "className": "Kuvalda_ASVAL127108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Автомат Специальный «Вал» 408",
+    "className": "Kuvalda_ASVAL408",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Автомат Специальный «Вал» 408 аномальный",
+    "className": "Kuvalda_ASVALanom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Автомат Специальный «Вал» 127х99",
+    "className": "Kuvalda_ASVAL12799",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Автомат Специальный «Вал» Gauss",
+    "className": "Kuvalda_ASVALgauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Автомат Специальный «Вал» 127х108 мод",
+    "className": "Kuvalda_ASVAL127108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Accuracy International AXM 12.7x99",
+    "className": "Kuvalda_AX50",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Accuracy International AXM 12.7x108мм Б-32",
+    "className": "Kuvalda_AX50_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Desert Eagle .357",
+    "className": "Deagle",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_357"],
+    "magazines": [9],
+    "minReloadTime": 0.16
+  },
+  {
+    "name": "Изделие №77",
+    "className": "DeagleFletch",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_Kuvalda_23ga"],
+    "magazines": [9],
+    "minReloadTime": 0.16
+  },
+  {
+    "name": "Изделие №31",
+    "className": "DeagleBarret",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [20],
+    "minReloadTime": 0.16
+  },
+  {
+    "name": "ДП-28",
+    "className": "Kuvalda_DP28",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_762x54_SNB", "Ammo_762x54", "Ammo_762x54Tracer", "Ammo_762x54_LPS", "Ammo_762x54_PS"],
+    "magazines": [47],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "ДП-28 9x39",
+    "className": "Kuvalda_DP28939",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [47],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "ДП-28 9x39 аномальный",
+    "className": "Kuvalda_DP28anom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [47, 94],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "LOBAEV Arms ДВЛ-10 Диверсант 7.62x51",
+    "className": "Kuvalda_DVL10",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "LOBAEV Arms ДВЛ-10 Диверсант 12.7x108мм Б-32",
+    "className": "Kuvalda_DVL10_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "F-2000",
+    "className": "Kuvalda_F2000",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "F-2000 338",
+    "className": "Kuvalda_F2000338",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "F-2000 12.7х99",
+    "className": "Kuvalda_F200012799",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [100],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "F-2000 Аномальный",
+    "className": "Kuvalda_F2000anom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Пистолет FN Five-seveN MK2 5.7x28",
+    "className": "Kuvalda_FN57",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_57x28_r37f", "Ammo_57x28_ss190", "Ammo_57x28_l191", "Ammo_57x28_ss197sr"],
+    "magazines": [20],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "Пистолет FN Five-seveN MK2 9x39",
+    "className": "Kuvalda_FN57939",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "HK G28 7.62x51",
+    "className": "Kuvalda_G28",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [20],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "HK G28 338",
+    "className": "Kuvalda_G28338",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [20, 100],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "HK G28 338 аномальный",
+    "className": "Kuvalda_G28anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [20, 100, 200],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка HK G36 5.56x45",
+    "className": "Kuvalda_G36",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Штурмовая винтовка HK G36 338",
+    "className": "Kuvalda_G36338",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Штурмовая аномальная винтовка HK G36 338",
+    "className": "Kuvalda_G36338anom",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Штурмовая винтовка HK G36 Gauss",
+    "className": "Kuvalda_G36_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Штурмовая винтовка HK G36 12.7x99",
+    "className": "Kuvalda_G36_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Штурмовая винтовка HK G36 12.7x108",
+    "className": "Kuvalda_G36_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Штурмовая  винтовка HK G36 12.7x108 Модифицированный",
+    "className": "Kuvalda_G36_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.08
+  },
+  {
+    "name": "Glock19",
+    "className": "Glock19",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x19", "Ammo_9x19_PSTGZH", "Ammo_9x19_AP"],
+    "magazines": [15],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "Glocl19 9x39",
+    "className": "Glock19939",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "Glock19 12,7x108",
+    "className": "Glock19127",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [30, 60, 100, 500],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "ОЦ-14 «Гроза» 9x39",
+    "className": "Kuvalda_Groza_939",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [20],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ОЦ-14 «Гроза» 7.62x39",
+    "className": "Kuvalda_Groza_762",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP", "Ammo_762x39_AP"],
+    "magazines": [30, 75],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ОЦ-14 «Гроза» Gauss",
+    "className": "Kuvalda_Groza_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ОЦ-14 «Гроза» 12.7x99",
+    "className": "Kuvalda_Groza_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ОЦ-14 «Гроза» 12.7x108",
+    "className": "Kuvalda_Groza_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ОЦ-14 «Гроза» 12.7x108 Модифицированный",
+    "className": "Kuvalda_Groza_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "HK416 A5",
+    "className": "Kuvalda_HK416A5",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "HK416 A5 338",
+    "className": "Kuvalda_HK416A5338",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "HK416 A5 12.7х108",
+    "className": "Kuvalda_HK416A5127108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 200, 500],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "Аномальный HK416 A5 338",
+    "className": "Kuvalda_HK416A5anom",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "HK416 A5 Gauss",
+    "className": "Kuvalda_HK416A5_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "HK416 A5 12.7x99",
+    "className": "Kuvalda_HK416A5_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "HK416 A5 12.7x108 Модифицированный",
+    "className": "Kuvalda_HK416A5_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "HK XM8",
+    "className": "Kuvalda_HK_XM8",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "HK XM8 Gauss",
+    "className": "Kuvalda_HK_XM8_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "HK XM8 12.7x99",
+    "className": "Kuvalda_HK_XM8_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "HK XM8 12.7x108",
+    "className": "Kuvalda_HK_XM8_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "HK XM8 12.7x108 Модифицированный",
+    "className": "Kuvalda_HK_XM8_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Корд",
+    "className": "Kuvalda_Kord",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [100],
+    "minReloadTime": 0.1523
+  },
+  {
+    "name": "ТОЗ КС-23М",
+    "className": "Kuvalda_KS23",
+    "initSpeedMultiplier": 1.25,
+    "chamberableFrom": ["Ammo_Kuvalda_23ga"],
+    "magazines": [4],
+    "minReloadTime": 1
+  },
+  {
+    "name": "ТОЗ КС-23М (10)",
+    "className": "Kuvalda_bKS23",
+    "initSpeedMultiplier": 1.25,
+    "chamberableFrom": ["Ammo_Kuvalda_23ga"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Штурмовая винтовка LR-300 5.56x45",
+    "className": "Kuvalda_LR300",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка LR-300 408",
+    "className": "Kuvalda_LR300408",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [30, 60, 100],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Секретная разработка LR-300 Gauss",
+    "className": "Kuvalda_LR300Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [100, 200, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка LR-300 .408 аномальный",
+    "className": "Kuvalda_LR300anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка Colt M4A1 5.56x45",
+    "className": "Kuvalda_M4A1",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка Colt M4A1 338",
+    "className": "Kuvalda_M4A1338",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая аномальная винтовка Colt M4A1 338",
+    "className": "Kuvalda_M4A1338anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка Colt M4A1 Gauss",
+    "className": "Kuvalda_M4A1_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая  винтовка Colt M4A1 12.7x99",
+    "className": "Kuvalda_M4A1_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка Colt M4A1 12.7x108",
+    "className": "Kuvalda_M4A1__127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка Colt M4A1 12.7x108 Модифицированный",
+    "className": "Kuvalda_M4A1__127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Ружье Benelli M3 Super 90 12к",
+    "className": "Kuvalda_M4Benelli",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_12gaPellets",
+      "Ammo_12gaSlug",
+      "Ammo_12gaPellets_tracer",
+      "Ammo_12gaNeedles",
+      "Ammo_12gaFlechet",
+      "Ammo_12gaAP20"
+    ],
+    "magazines": [7],
+    "minReloadTime": 0.15
+  },
+  {
+    "name": "Ружье Benelli M3 Super 23мм",
+    "className": "Kuvalda_bM4Benelli",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_Kuvalda_23ga"],
+    "magazines": [10],
+    "minReloadTime": 0.15
+  },
+  {
+    "name": "Пистолет Beretta M9A3 9x19",
+    "className": "Kuvalda_M9A3",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x19", "Ammo_9x19_PSTGZH", "Ammo_9x19_AP"],
+    "magazines": [17],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "Пистолет Beretta M9A3 9x39",
+    "className": "Kuvalda_M9A3939",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "Беретта учёного",
+    "className": "Kuvalda_M9A3_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "M82A1 Barret",
+    "className": "Kuvalda_M82A1",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [10, 20, 40, 60, 100],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "Усовершенствованный M82A1 Barret",
+    "className": "Kuvalda_M82A1_12x7mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "CheyTac M200 «Intervention»",
+    "className": "Kuvalda_M200",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [7, 15],
+    "minReloadTime": 1
+  },
+  {
+    "name": "CheyTac M200 «Intervention» 12.7x108мм Б-32»",
+    "className": "Kuvalda_M200_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [7, 15],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Remington M700 7.62x51",
+    "className": "Kuvalda_M700",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [5, 10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Remington M700 12.7x108мм Б-32",
+    "className": "Kuvalda_M700_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [5, 10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Mauser 98k 7.62х51",
+    "className": "Kuvalda_Mauser",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [5],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Mauser 98k 12.7x108мм Б-32",
+    "className": "Kuvalda_Mauser_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [5],
+    "minReloadTime": 1
+  },
+  {
+    "name": "McMillan CS5 7.62x51",
+    "className": "Kuvalda_McMillan",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "McMillan CS5 12.7x108мм Б-32",
+    "className": "Kuvalda_McMillan_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "SIG MCX .300 Blackout",
+    "className": "Kuvalda_SIG_MCX",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_300BLK_FMJ", "Ammo_300BLK_M62", "Ammo_300BLK_AP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX Gauss",
+    "className": "Kuvalda_SIGMCX_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX 12.7x99",
+    "className": "Kuvalda_SIGMCX_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX 12.7x108",
+    "className": "Kuvalda_SIGMCX_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX 12.7x108 Модифицированный",
+    "className": "Kuvalda_SIGMCX_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка Desert Tech MDR 5.56x45",
+    "className": "Kuvalda_MDR_556",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Штурмовая винтовка Desert Tech MDR 7.62x51",
+    "className": "Kuvalda_MDR_308",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_308Win", "Ammo_308WinTracer", "Ammo_308Win_M80", "Ammo_308Win_M61", "Ammo_308Win_M993"],
+    "magazines": [20, 50],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Desert Tech MDR 338",
+    "className": "Kuvalda_MDR_338",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Desert Tech MDR 12.7x108мм Б-32",
+    "className": "Kuvalda_MDR_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Модифицированный Desert Tech MDR 12.7x108мм Б-32",
+    "className": "Kuvalda_MDR_12x7mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Desert Tech MDR 338 аномальная Б-32",
+    "className": "Kuvalda_MDRanom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "MG-42 7.62x51",
+    "className": "Kuvalda_MG42",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [100],
+    "minReloadTime": 0.04
+  },
+  {
+    "name": "MG-42 338",
+    "className": "Kuvalda_MG42338",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "MG-42 338 аномальный",
+    "className": "Kuvalda_MG42338anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "International Mk-18 .338 LM",
+    "className": "Kuvalda_Mk18",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [10],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "International Mk-18 .408 LM",
+    "className": "Kuvalda_Mk18408",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [20, 40],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "International Mk-18 аномальный",
+    "className": "Kuvalda_Mk18anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [20],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "CMMG Mk47 Mutant 7.62x39",
+    "className": "Kuvalda_MK47",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP", "Ammo_762x39_AP"],
+    "magazines": [30, 40, 75],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "CMMG Mk47 Mutant 338",
+    "className": "Kuvalda_MK47338",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "CMMG Mk47 Mutant Аномальный",
+    "className": "Kuvalda_MK47338anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "CMMG Mk47 Mutant Gauss",
+    "className": "Kuvalda_MK47_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "CMMG Mk47 Mutant 12.7x99",
+    "className": "Kuvalda_MK47_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "CMMG Mk47 Mutant 12.7x108",
+    "className": "Kuvalda_MK47_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "CMMG Mk47 Mutant 12.7x108 Модифицированный",
+    "className": "Kuvalda_MK47_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Винтовка Мосина 1891г. 7.62x54R",
+    "className": "Kuvalda_Mosin",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_762x54", "Ammo_762x54Tracer", "Ammo_762x54_LPS", "Ammo_762x54_PS", "Ammo_762x54_SNB"],
+    "magazines": [5],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Винтовка Мосина 1891г. 12.7x108мм Б-32",
+    "className": "Kuvalda_Mosin_12x7",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [5],
+    "minReloadTime": 1
+  },
+  {
+    "name": "MP5K",
+    "className": "MP5K",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_9x19", "Ammo_9x19_PSTGZH", "Ammo_9x19_AP"],
+    "magazines": [15, 30, 50],
+    "minReloadTime": 0.064999998
+  },
+  {
+    "name": "Изделие №61",
+    "className": "MP5K127",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 50],
+    "minReloadTime": 0.09
+  },
+  {
+    "name": "MP5 9x39",
+    "className": "MP5K939",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.09
+  },
+  {
+    "name": "Аномальный MP5 9x39",
+    "className": "MP5K939anom",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.09
+  },
+  {
+    "name": "HK MP7A1 4.6x30",
+    "className": "Kuvalda_MP7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kvld_Ammo_46x30_FMJ", "Kvld_Ammo_46x30_AP", "Kvld_Ammo_46x30_SS"],
+    "magazines": [30, 40],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "HK MP7A1 Gauss",
+    "className": "Kuvalda_MP7_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "HK MP7A1 12.7x99",
+    "className": "Kuvalda_MP7_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "HK MP7A1 12.7x108",
+    "className": "Kuvalda_MP7_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "HK MP7A1 12.7x108 Модифицированный",
+    "className": "Kuvalda_MP7_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "Пистолет-пулемет FN P90 5.7x28",
+    "className": "Kuvalda_P90",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Ammo_57x28_r37f", "Ammo_57x28_ss190", "Ammo_57x28_l191", "Ammo_57x28_ss197sr"],
+    "magazines": [50],
+    "minReloadTime": 0.065
+  },
+  {
+    "name": "Пистолет-пулемет FN P90 Gauss",
+    "className": "Kuvalda_P90_Gauss",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.065
+  },
+  {
+    "name": "Пистолет-пулемет FN P90 12.7x99",
+    "className": "Kuvalda_P90_127x99",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.065
+  },
+  {
+    "name": "Пистолет-пулемет FN P90 12.7x108",
+    "className": "Kuvalda_P90_127x108",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.065
+  },
+  {
+    "name": "Пистолет-пулемет FN P90 12.7x108 Модифицированный",
+    "className": "Kuvalda_P90_127x108mod",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.065
+  },
+  {
+    "name": "Пулемет Калашникова Модернизированный 7.62x54R",
+    "className": "Kuvalda_PKM",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_762x54", "Ammo_762x54Tracer", "Ammo_762x54_LPS", "Ammo_762x54_PS", "Ammo_762x54_SNB"],
+    "magazines": [100],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Пулемет Калашникова Модернизированный 9x39",
+    "className": "Kuvalda_PKM939",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [100],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Пулемет Калашникова Модернизированный .408",
+    "className": "Kuvalda_PKM408",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Пулемет Калашникова Модернизированный аномальный",
+    "className": "Kuvalda_PKM939anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "PKM 12.7х99 'Коса'",
+    "className": "Kuvalda_PKM12799",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [100],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "PKM 12.7х99",
+    "className": "Kuvalda_PKM_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "PKM Gauss",
+    "className": "Kuvalda_PKM_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "PKM 12.7x108",
+    "className": "Kuvalda_PKM_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "PKM 12.7x108 Модифицированный",
+    "className": "Kuvalda_PKM_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.092
+  },
+  {
+    "name": "Пистолет-пулемет ПП-91 Кедр",
+    "className": "Kuvalda_PP91",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Ammo_380"],
+    "magazines": [20, 30],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Пистолет-пулемет ПП-91 Кедр (9x39)",
+    "className": "Kuvalda_PP91939",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Пистолет-пулемет ПП-91 Кедр аномальный",
+    "className": "Kuvalda_PP91anom",
+    "initSpeedMultiplier": 1.15,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Пистолет-пулемет ППШ-41 7.62x25",
+    "className": "Kuvalda_PPSH",
+    "initSpeedMultiplier": 1.25,
+    "chamberableFrom": ["Kvld_Ammo_762x25TT_FMJ", "Kvld_Ammo_762x25TT_PSTGJ", "Kvld_Ammo_762x25TT_PTGJ"],
+    "magazines": [35, 71],
+    "minReloadTime": 0.06
+  },
+  {
+    "name": "Пистолет-пулемет ППШ-41 9x39",
+    "className": "Kuvalda_PPSH939",
+    "initSpeedMultiplier": 1.25,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [35, 71],
+    "minReloadTime": 0.06
+  },
+  {
+    "name": "Пистолет-пулемет ППШ-41 9x39 аномальный",
+    "className": "Kuvalda_PPSHanom",
+    "initSpeedMultiplier": 1.25,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [71, 142],
+    "minReloadTime": 0.06
+  },
+  {
+    "name": "Винтовка Kel-Tec RFB 7.62x51",
+    "className": "Kuvalda_RFB",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [20, 50],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "Винтовка Kel-Tec RFB Gauss",
+    "className": "Kuvalda_RFB_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Винтовка Kel-Tec RFB 12.7x99",
+    "className": "Kuvalda_RFB_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Винтовка Kel-Tec RFB 12.7x108",
+    "className": "Kuvalda_RFB_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "Винтовка Kel-Tec RFB 12.7x108 Модифицированный",
+    "className": "Kuvalda_RFB_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.089
+  },
+  {
+    "name": "РПД 7.62x39",
+    "className": "Kuvalda_RPD",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP", "Ammo_762x39_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "РПД 9x39",
+    "className": "Kuvalda_RPD939",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [100],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "Аномальный РПД 9x39",
+    "className": "Kuvalda_RPDanom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "РПД Gauss",
+    "className": "Kuvalda_RPD_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "РПД 12.7x99",
+    "className": "Kuvalda_RPD_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "РПД 12.7x108",
+    "className": "Kuvalda_RPD_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "РПД 12.7x108 Модифицированный",
+    "className": "Kuvalda_RPD_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0857
+  },
+  {
+    "name": "Ручной пулемет РПК-16 5.45x39",
+    "className": "Kuvalda_RPK16",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": [
+      "Ammo_545x39",
+      "Ammo_545x39Tracer",
+      "Ammo_545x39_PS",
+      "Ammo_545x39_BP",
+      "Ammo_545x39_BS",
+      "Ammo_545x39_PPBS"
+    ],
+    "magazines": [30, 45, 60, 95],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-16 9x39",
+    "className": "Kuvalda_RPK16939",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [95],
+    "minReloadTime": 0.05
+  },
+  {
+    "name": "Аномальный РПК-16",
+    "className": "Kuvalda_RPK16anom",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [95, 190],
+    "minReloadTime": 0.05
+  },
+  {
+    "name": "РПК-16 Gauss",
+    "className": "Kuvalda_RPK16_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.05
+  },
+  {
+    "name": "РПК-16 12.7x99",
+    "className": "Kuvalda_RPK16_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.05
+  },
+  {
+    "name": "РПК-16 12.7x108",
+    "className": "Kuvalda_RPK16_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.05
+  },
+  {
+    "name": "РПК-16 12.7x108 Модифицированный",
+    "className": "Kuvalda_RPK16_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.05
+  },
+  {
+    "name": "РПК-203 7.62x39",
+    "className": "Kuvalda_RPK203",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP", "Ammo_762x39_AP"],
+    "magazines": [10, 30, 40, 75],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-74 5.45x39",
+    "className": "Kuvalda_RPK74",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": [
+      "Ammo_545x39",
+      "Ammo_545x39Tracer",
+      "Ammo_545x39_PS",
+      "Ammo_545x39_BP",
+      "Ammo_545x39_BS",
+      "Ammo_545x39_PPBS"
+    ],
+    "magazines": [10, 30, 40, 75],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-203 Gauss",
+    "className": "Kuvalda_RPK203_Gauss",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-203 12.7x99",
+    "className": "Kuvalda_RPK203_127x99",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-203 12.7x108",
+    "className": "Kuvalda_RPK203_127x108",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-203 12.7x108 Модифицированный",
+    "className": "Kuvalda_RPK203_127x108mod",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-74 Gauss",
+    "className": "Kuvalda_RPK74_Gauss",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-74 12.7x99",
+    "className": "Kuvalda_RPK74_127x99",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-74 12.7x108",
+    "className": "Kuvalda_RPK74_127x108",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "РПК-74 12.7x108 Модифицированный",
+    "className": "Kuvalda_RPK74_127x108mod",
+    "initSpeedMultiplier": 0.99,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Револьвер РШ-12 12.7x55",
+    "className": "Kuvalda_RSH12",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kvld_Ammo_127x55A", "Kvld_Ammo_127x55B"],
+    "magazines": [6],
+    "minReloadTime": 0.2
+  },
+  {
+    "name": "Револьвер РШ-12 12.7x108",
+    "className": "Kuvalda_bRSH12",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [6],
+    "minReloadTime": 0.2
+  },
+  {
+    "name": "SA-80",
+    "className": "Kuvalda_SA80",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "SA-80 338",
+    "className": "Kuvalda_SA80338",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [100],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "SA-80 338 аномальный",
+    "className": "Kuvalda_SA80anom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [100, 200],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "SA-80 Gauss",
+    "className": "Kuvalda_SA80_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "SA-80 12.7x99",
+    "className": "Kuvalda_SA80_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "SA-80 12.7x108",
+    "className": "Kuvalda_SA80_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "SA-80 12.7x108 Модифицированный",
+    "className": "Kuvalda_SA80_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0923
+  },
+  {
+    "name": "Самозарядный карабин Сайга 12К",
+    "className": "Kuvalda_Saiga",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_12gaPellets",
+      "Ammo_12gaSlug",
+      "Ammo_12gaRubberSlug",
+      "Ammo_12gaBeanbag",
+      "Ammo_12gaFlechet",
+      "Ammo_12gaAP20"
+    ],
+    "magazines": [5, 8, 20, 40],
+    "minReloadTime": 0.22
+  },
+  {
+    "name": "Самозарядный карабин Сайга 12К Шрапнель",
+    "className": "Kuvalda_SaigaFletch",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_Kuvalda_23ga"],
+    "magazines": [10, 50],
+    "minReloadTime": 0.22
+  },
+  {
+    "name": "Штурмовая винтовка FN SCAR-L 5.56x45",
+    "className": "Kuvalda_ScarL",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка FN SCAR-L Gauss",
+    "className": "Kuvalda_ScarL_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка FN SCAR-L 12.7x99",
+    "className": "Kuvalda_ScarL_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка FN SCAR-L 12.7x108",
+    "className": "Kuvalda_ScarL_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка FN SCAR-L 12.7x108 Модифицированный",
+    "className": "Kuvalda_ScarL_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка FN SCAR-L .408",
+    "className": "Kuvalda_ScarL_408",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Аномальная штурмовая винтовка FN SCAR-L .408",
+    "className": "Kuvalda_ScarL_408Anom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "SIG SG 550 5.56x45",
+    "className": "Kuvalda_SG550",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [20],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG SG 550 Gauss",
+    "className": "Kuvalda_SG550_Gauss",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG SG 550 12.7x99",
+    "className": "Kuvalda_SG550_127x99",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG SG 550 12.7x108",
+    "className": "Kuvalda_SG550_127x108",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG SG 550 12.7x108 Модифицированный",
+    "className": "Kuvalda_SG550_127x108mod",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "СКС 7.62x39",
+    "className": "Kuvalda_SKS",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_762x39", "Ammo_762x39Tracer", "Ammo_762x39_PS", "Ammo_762x39_BP", "Ammo_762x39_AP"],
+    "magazines": [10, 20, 35, 70],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "СКС 338",
+    "className": "Kuvalda_SKS338",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_FMJ", "Ammo_338LM_AP"],
+    "magazines": [75],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "СКС 338 аномальный",
+    "className": "Kuvalda_SKSanom",
+    "initSpeedMultiplier": 0.9,
+    "chamberableFrom": ["Ammo_338LM_APanom"],
+    "magazines": [75],
+    "minReloadTime": 0.12
+  },
+  {
+    "name": "Штурмовая винтовка SIG MCX SPEAR 6.8x51мм",
+    "className": "Kuvalda_SIGMCX_Spear",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_68x51_FMJ", "Ammo_68x51_Hybrid"],
+    "magazines": [20, 25],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "Штурмовая винтовка SIG MCX SPEAR .408",
+    "className": "Kuvalda_SIGMCX_Spear408",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [10, 20, 40, 200],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX SPEAR .408 аномальный",
+    "className": "Kuvalda_SIGMCX_Spearanom",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [20, 40, 60, 100],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX SPEAR Gauss",
+    "className": "Kuvalda_SIGMCX_Spear_Gauss",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX SPEAR 12.7x99",
+    "className": "Kuvalda_SIGMCX_Spear_127x99",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX SPEAR 12.7x108",
+    "className": "Kuvalda_SIGMCX_Spear_127x108",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "SIG MCX SPEAR 12.7x108 Модифицированный",
+    "className": "Kuvalda_SIGMCX_Spear_127x108mod",
+    "initSpeedMultiplier": 0.95,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.075
+  },
+  {
+    "name": "СР-3М «Вихрь» 9x39",
+    "className": "Kuvalda_SR3M",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [10, 20, 30, 40, 80],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "СР-3М «Вихрь» 12.7x55",
+    "className": "Kuvalda_SR3M127",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kvld_Ammo_127x55B", "Kvld_Ammo_127x55A"],
+    "magazines": [100],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Изделие №15",
+    "className": "Kuvalda_SR3Mgauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [100],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "СВ-98 7.62x54R",
+    "className": "Kuvalda_SV98",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_762x54",
+      "Ammo_762x54Tracer",
+      "Kvld_Ammo_762x54",
+      "Ammo_762x54_LPS",
+      "Ammo_762x54_PS",
+      "Ammo_762x54_SNB"
+    ],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "СВ-98 12.7x108мм Б-32",
+    "className": "Kuvalda_SV98_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "СВДС 7.62x54R",
+    "className": "Kuvalda_SVDS",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_762x54", "Ammo_762x54Tracer", "Ammo_762x54_LPS", "Ammo_762x54_PS", "Ammo_762x54_SNB"],
+    "magazines": [10, 20],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "СВДС .408",
+    "className": "Kuvalda_SVDS408",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [10, 20, 40, 100],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "Изделие №18",
+    "className": "Kuvalda_SVDSGauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "Аномальная СВДС .408",
+    "className": "Kuvalda_SVDSAnom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [10, 20, 40, 80, 100],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "СВДС 12.7x108мм Б-32",
+    "className": "Kuvalda_SVDS12x7mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [20, 40, 50, 100],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "СВУ 7.62x54R",
+    "className": "Kuvalda_SVU",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_762x54", "Ammo_762x54Tracer", "Ammo_762x54_LPS", "Ammo_762x54_PS", "Ammo_762x54_SNB"],
+    "magazines": [10, 20],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "СВУ 12.7x55",
+    "className": "Kuvalda_SVU12755",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kvld_Ammo_127x55B", "Kvld_Ammo_127x55A"],
+    "magazines": [20, 40, 60],
+    "minReloadTime": 0.125
+  },
+  {
+    "name": "ОРСИС T-5000M 7.62x51",
+    "className": "Kuvalda_T5000",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_308Win",
+      "Ammo_308WinTracer",
+      "Ammo_308WinTracer",
+      "Ammo_308Win_M80",
+      "Ammo_308Win_M61",
+      "Ammo_308Win_M993"
+    ],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "ОРСИС T-5000M 12.7x108мм Б-32",
+    "className": "Kuvalda_T5000_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "TAR-21 5.56x45mm",
+    "className": "Kuvalda_Tar21",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": [
+      "Ammo_556x45",
+      "Ammo_556x45Tracer",
+      "Ammo_556x45_M855",
+      "Ammo_556x45_M856A1",
+      "Ammo_556x45_M855A1",
+      "Ammo_556x45_M995"
+    ],
+    "magazines": [10, 20, 30, 40, 60],
+    "minReloadTime": 0.0666
+  },
+  {
+    "name": "TAR-21 Gauss",
+    "className": "Kuvalda_Tar21_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0666
+  },
+  {
+    "name": "TAR-21 12.7x99",
+    "className": "Kuvalda_Tar21_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0666
+  },
+  {
+    "name": "TAR-21 12.7x108",
+    "className": "Kuvalda_Tar21_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0666
+  },
+  {
+    "name": "TAR-21 12.7x108 Модифицированный",
+    "className": "Kuvalda_Tar21_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.0666
+  },
+  {
+    "name": "Пистолет ТТ-33 7.62x25 ТТ",
+    "className": "Kuvalda_TT",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kvld_Ammo_762x25TT_FMJ", "Kvld_Ammo_762x25TT_PSTGJ", "Kvld_Ammo_762x25TT_PTGJ"],
+    "magazines": [8],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "Пистолет ТТ-33 9x39",
+    "className": "Kuvalda_TT939",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [30, 60],
+    "minReloadTime": 0.13
+  },
+  {
+    "name": "KRISS Vector Gen.2 9x19",
+    "className": "Kuvalda_Vector",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_9x19", "Ammo_9x19_PSTGZH", "Ammo_9x19_AP"],
+    "magazines": [15, 30],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "KRISS Vector Gen.2 Gauss",
+    "className": "Kuvalda_Vector_Gauss",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "KRISS Vector Gen.2 12.7x99",
+    "className": "Kuvalda_Vector_127x99",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "KRISS Vector Gen.2 12.7x108",
+    "className": "Kuvalda_Vector_127x108",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "KRISS Vector Gen.2 12.7x108 Модифицированный",
+    "className": "Kuvalda_Vector_127x108mod",
+    "initSpeedMultiplier": 1.05,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.063
+  },
+  {
+    "name": "СР-2М «Вереск»",
+    "className": "Kuvalda_Veresk",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x21_PS", "Ammo_9x21_BT"],
+    "magazines": [30],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "СР-2М «Вереск» Gauss",
+    "className": "Kuvalda_Veresk_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "СР-2М «Вереск» 12.7x99",
+    "className": "Kuvalda_Veresk_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "СР-2М «Вереск» 12.7x108",
+    "className": "Kuvalda_Veresk_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "СР-2М «Вереск» 12.7x108 Модифицированный",
+    "className": "Kuvalda_Veresk_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Изделие №69",
+    "className": "bVikhr",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [40],
+    "minReloadTime": 0.07
+  },
+  {
+    "name": "Винтовка Молот ВПО-215 Горностай .366 ТКМ",
+    "className": "Kuvalda_VPO215",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_366TKM_FMJ", "Ammo_366TKM_AP"],
+    "magazines": [4],
+    "minReloadTime": 1
+  },
+  {
+    "name": "Винтовка Молот ВПО-215 12.7x108мм Б-32",
+    "className": "Kuvalda_VPO215_12x7",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10],
+    "minReloadTime": 1
+  },
+  {
+    "name": "ВСК-94 9x39",
+    "className": "Kuvalda_VSK94",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [20],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ВСК-94 Gauss",
+    "className": "Kuvalda_VSK94_Gauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ВСК-94 12.7x99",
+    "className": "Kuvalda_VSK94_127x99",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ВСК-94 12.7x108",
+    "className": "Kuvalda_VSK94_127x108",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mm"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ВСК-94 12.7x108 Модифицированный",
+    "className": "Kuvalda_VSK94_127x108mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [50, 100, 500],
+    "minReloadTime": 0.085
+  },
+  {
+    "name": "ВСС «Винторез» 9x39",
+    "className": "Kuvalda_VSS",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39", "Ammo_9x39AP", "Ammo_9x39_SP5", "Ammo_9x39_SP6", "Ammo_9x39_BP"],
+    "magazines": [10, 20, 30, 40, 80],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "ВСС 'Mercenary'",
+    "className": "Kuvalda_VSS12799",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [100],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "Усовершенствованный ВСС 12.7x108мм Б-32",
+    "className": "Kuvalda_VSS12x7mod",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10, 100, 500],
+    "minReloadTime": 0.066
+  },
+  {
+    "name": "Опустошитель",
+    "className": "Kuvalda_VSS12x7mod2",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Kuvalda_Ammo_12x7mmmod"],
+    "magazines": [10, 100, 500],
+    "minReloadTime": 0.095
+  },
+  {
+    "name": "Изделие №89",
+    "className": "Kuvalda_VSSGauss",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [100, 500],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "ВСС «Винторез» .408",
+    "className": "Kuvalda_VSS408",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_AP"],
+    "magazines": [30, 60, 100],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "ВСС «Винторез» Аномальный .408",
+    "className": "Kuvalda_VSS408anom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [30, 60, 100, 120],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "Аномальный ВСС «Винторез»",
+    "className": "Kuvalda_VSSanom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_9x39_BPanom"],
+    "magazines": [30, 60, 120],
+    "minReloadTime": 0.1
+  },
+  {
+    "name": "ВССК «Выхлоп» 12.7x55",
+    "className": "Kuvalda_VSSK",
+    "initSpeedMultiplier": 2,
+    "chamberableFrom": ["Kvld_Ammo_127x55A", "Kvld_Ammo_127x55B"],
+    "magazines": [5],
+    "minReloadTime": 1.6
+  },
+  {
+    "name": "ВССК «Выхлоп» Аномальный",
+    "className": "Kuvalda_VSSKAnom",
+    "initSpeedMultiplier": 2,
+    "chamberableFrom": ["VZP_Ammo_gaus"],
+    "magazines": [20, 40, 100],
+    "minReloadTime": 0.65
+  },
+  {
+    "name": "ВССК «Выхлоп» 12.7*99",
+    "className": "Kuvalda_VSSK12799",
+    "initSpeedMultiplier": 2,
+    "chamberableFrom": ["Ammo_127x99_M33"],
+    "magazines": [20, 40, 100],
+    "minReloadTime": 0.25
+  },
+  {
+    "name": "Зимний ВСС",
+    "className": "winter_vss_anom",
+    "initSpeedMultiplier": 1,
+    "chamberableFrom": ["Ammo_408_APanom"],
+    "magazines": [100],
+    "minReloadTime": 0.065
+  }
+]
