@@ -29,6 +29,6 @@ const router = createBrowserRouter([
       }
     ]
   }
-]);
+], {basename: "/dayzvis"});
 
 export default router;

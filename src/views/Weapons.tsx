@@ -53,7 +53,7 @@ const columns = [
     key: "ammo",
     name: "Боеприпас",
     renderCell({row}) {
-      return <Link to={`/weapon/${row.id}`}>{row.name}</Link>;
+      return <Link to={`/weapon/${row.id}`}>{row.ammo}</Link>;
     }
   },
   {
